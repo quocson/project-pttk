@@ -1,0 +1,12 @@
+C:\Users\HuuTai_it\Desktop\project-pttk\TetrisReturn\TetrisReturn\bin\Debug\TetrisReturn.exe
+C:\Users\HuuTai_it\Desktop\project-pttk\TetrisReturn\TetrisReturn\bin\Debug\TetrisReturn.pdb
+C:\Users\HuuTai_it\Desktop\project-pttk\TetrisReturn\TetrisReturn\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\HuuTai_it\Desktop\project-pttk\TetrisReturn\TetrisReturn\obj\x86\Debug\TetrisReturn.MainForm.resources
+C:\Users\HuuTai_it\Desktop\project-pttk\TetrisReturn\TetrisReturn\obj\x86\Debug\TetrisReturn.Properties.Resources.resources
+C:\Users\HuuTai_it\Desktop\project-pttk\TetrisReturn\TetrisReturn\obj\x86\Debug\ResGen.read.1.tlog
+C:\Users\HuuTai_it\Desktop\project-pttk\TetrisReturn\TetrisReturn\obj\x86\Debug\ResGen.write.1.tlog
+C:\Users\HuuTai_it\Desktop\project-pttk\TetrisReturn\TetrisReturn\obj\x86\Debug\TetrisReturn.exe
+C:\Users\HuuTai_it\Desktop\project-pttk\TetrisReturn\TetrisReturn\obj\x86\Debug\TetrisReturn.pdb
+C:\Users\HuuTai_it\Desktop\project-pttk\TetrisReturn\TetrisReturn\bin\Debug\TetrisReturn.exe.config
+C:\Users\HuuTai_it\Desktop\project-pttk\TetrisReturn\TetrisReturn\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\HuuTai_it\Desktop\project-pttk\TetrisReturn\TetrisReturn\obj\x86\Debug\GenerateResource.write.1.tlog
