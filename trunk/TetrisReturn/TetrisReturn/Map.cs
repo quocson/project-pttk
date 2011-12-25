@@ -20,6 +20,11 @@ namespace TetrisReturn
 
         public Map()
         {
+            row = 26;
+            col = 16;
+
+            //xScreen = ?;
+            //yScreen = ?;
         }
 
         public void Dispose()

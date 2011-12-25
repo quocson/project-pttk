@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("TheDescendingMapPlugin")]
+[assembly: AssemblyTitle("TheStairwayToHeavenMapPlugin")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("TheDescendingMapPlugin")]
+[assembly: AssemblyProduct("TheStairwayToHeavenMapPlugin")]
 [assembly: AssemblyCopyright("Copyright ©  2011")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("1ac1cd3b-50ca-409d-b5a0-efb3f7805863")]
+[assembly: Guid("b15dea98-39dd-4e66-ad57-50f5228af246")]
 
 // Version information for an assembly consists of the following four values:
 //

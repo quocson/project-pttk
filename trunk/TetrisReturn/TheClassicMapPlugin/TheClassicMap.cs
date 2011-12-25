@@ -11,16 +11,10 @@ namespace TheClassicMapPlugin
     {
         public TheClassicMap()
         {
-            row = 26;
-            col = 16;
-
             statusMap = new int[row, col];
             for (int i = 0; i < row; i++)
                 for (int j = 0; j < col; j++)
-                    statusMap[i, j] = 0;
-
-            //xScreen = ?;
-            //yScreen = ?;
+                    statusMap[i, j] = -1;
 
             iMap = new Bitmap(TheClassicMapPlugin.Properties.Resources.ClassicMap);
         }
@@ -30,7 +24,7 @@ namespace TheClassicMapPlugin
         {
             for (int i = 0; i < row; i++)
                 for (int j = 0; j < col; j++)
-                    statusMap[i, j] = 0;
+                    statusMap[i, j] = -1;
         }
     }
 }

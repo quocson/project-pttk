@@ -9,8 +9,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TheClassicMapPlugin", "TheC
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TheDeathSawMapPlugin", "TheDeathSawMapPlugin\TheDeathSawMapPlugin.csproj", "{D6ED7C45-D7B4-46EA-AD16-E8F7F64AEFB8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TheDescendingMapPlugin", "TheDescendingMapPlugin\TheDescendingMapPlugin.csproj", "{83C9A42B-2633-46E5-80D0-7899D21D1D7E}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TheHourglassMapPlugin", "TheHourglassMapPlugin\TheHourglassMapPlugin.csproj", "{1AD96647-1A2D-4D81-82C5-C9FD193422C8}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TheOldBoardMapPlugin", "TheOldBoardMapPlugin\TheOldBoardMapPlugin.csproj", "{04791F97-01AE-41EA-979A-B3649FEEA908}"
@@ -26,6 +24,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TheTransformerThemePlugin", "TheTransformerThemePlugin\TheTransformerThemePlugin.csproj", "{19B86768-C142-458D-9B3B-08B34261B3BF}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TheSketchThemePlugin", "TheSketchThemePlugin\TheSketchThemePlugin.csproj", "{896EA655-B996-4648-BF65-194B212DD17D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TheStairwayToHeavenMapPlugin", "TheStairwayToHeavenMapPlugin\TheStairwayToHeavenMapPlugin.csproj", "{20DBF990-FB39-45DF-91FF-65FD5B16462A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -77,16 +77,6 @@ Global
 		{D6ED7C45-D7B4-46EA-AD16-E8F7F64AEFB8}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
 		{D6ED7C45-D7B4-46EA-AD16-E8F7F64AEFB8}.Release|Mixed Platforms.Build.0 = Release|Any CPU
 		{D6ED7C45-D7B4-46EA-AD16-E8F7F64AEFB8}.Release|x86.ActiveCfg = Release|Any CPU
-		{83C9A42B-2633-46E5-80D0-7899D21D1D7E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{83C9A42B-2633-46E5-80D0-7899D21D1D7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{83C9A42B-2633-46E5-80D0-7899D21D1D7E}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
-		{83C9A42B-2633-46E5-80D0-7899D21D1D7E}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
-		{83C9A42B-2633-46E5-80D0-7899D21D1D7E}.Debug|x86.ActiveCfg = Debug|Any CPU
-		{83C9A42B-2633-46E5-80D0-7899D21D1D7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{83C9A42B-2633-46E5-80D0-7899D21D1D7E}.Release|Any CPU.Build.0 = Release|Any CPU
-		{83C9A42B-2633-46E5-80D0-7899D21D1D7E}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
-		{83C9A42B-2633-46E5-80D0-7899D21D1D7E}.Release|Mixed Platforms.Build.0 = Release|Any CPU
-		{83C9A42B-2633-46E5-80D0-7899D21D1D7E}.Release|x86.ActiveCfg = Release|Any CPU
 		{1AD96647-1A2D-4D81-82C5-C9FD193422C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{1AD96647-1A2D-4D81-82C5-C9FD193422C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1AD96647-1A2D-4D81-82C5-C9FD193422C8}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
@@ -167,6 +157,16 @@ Global
 		{896EA655-B996-4648-BF65-194B212DD17D}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
 		{896EA655-B996-4648-BF65-194B212DD17D}.Release|Mixed Platforms.Build.0 = Release|Any CPU
 		{896EA655-B996-4648-BF65-194B212DD17D}.Release|x86.ActiveCfg = Release|Any CPU
+		{20DBF990-FB39-45DF-91FF-65FD5B16462A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20DBF990-FB39-45DF-91FF-65FD5B16462A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20DBF990-FB39-45DF-91FF-65FD5B16462A}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{20DBF990-FB39-45DF-91FF-65FD5B16462A}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{20DBF990-FB39-45DF-91FF-65FD5B16462A}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{20DBF990-FB39-45DF-91FF-65FD5B16462A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20DBF990-FB39-45DF-91FF-65FD5B16462A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{20DBF990-FB39-45DF-91FF-65FD5B16462A}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{20DBF990-FB39-45DF-91FF-65FD5B16462A}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{20DBF990-FB39-45DF-91FF-65FD5B16462A}.Release|x86.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

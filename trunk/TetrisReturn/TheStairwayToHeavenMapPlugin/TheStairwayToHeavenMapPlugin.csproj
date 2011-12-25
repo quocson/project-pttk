@@ -5,11 +5,11 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProductVersion>8.0.30703</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
-    <ProjectGuid>{83C9A42B-2633-46E5-80D0-7899D21D1D7E}</ProjectGuid>
+    <ProjectGuid>{20DBF990-FB39-45DF-91FF-65FD5B16462A}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>TheDescendingMapPlugin</RootNamespace>
-    <AssemblyName>TheDescendingMapPlugin</AssemblyName>
+    <RootNamespace>TheStairwayToHeavenMapPlugin</RootNamespace>
+    <AssemblyName>TheStairwayToHeavenMapPlugin</AssemblyName>
     <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>
@@ -33,6 +33,7 @@
   <ItemGroup>
     <Reference Include="System" />
     <Reference Include="System.Core" />
+    <Reference Include="System.Drawing" />
     <Reference Include="System.Xml.Linq" />
     <Reference Include="System.Data.DataSetExtensions" />
     <Reference Include="Microsoft.CSharp" />
@@ -41,14 +42,32 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="TheDescendingMap.cs" />
-    <Compile Include="TheDescendingMapPlugin.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="TheStairwayToHeavenMap.cs" />
+    <Compile Include="TheStairwayToHeavenMapInterface.cs" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\MapPluginInterface\MapPluginInterface.csproj">
+      <Project>{BF092A8C-6205-4F2A-9D9E-5FD98DF482F4}</Project>
+      <Name>MapPluginInterface</Name>
+    </ProjectReference>
     <ProjectReference Include="..\TetrisReturn\TetrisReturn.csproj">
       <Project>{4A76CCA0-D520-4E2F-9DA0-39258A235BE4}</Project>
       <Name>TetrisReturn</Name>
     </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\StairwayToHeavenMap.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
