@@ -5,3 +5,6 @@ C:\Users\HuuTai_it\Desktop\project-pttk\TetrisReturn\TheRazorBladeMapPlugin\obj\
 C:\Users\HuuTai_it\Desktop\project-pttk\TetrisReturn\TheRazorBladeMapPlugin\obj\Debug\TheRazorBladeMapPlugin.pdb
 C:\Users\HuuTai_it\Desktop\project-pttk\TetrisReturn\TheRazorBladeMapPlugin\bin\Debug\MapInterface.dll
 C:\Users\HuuTai_it\Desktop\project-pttk\TetrisReturn\TheRazorBladeMapPlugin\bin\Debug\MapInterface.pdb
+C:\Users\HuuTai_it\Desktop\project-pttk\TetrisReturn\TheRazorBladeMapPlugin\obj\Debug\TheRazorBladeMapPlugin.Properties.Resources.resources
+C:\Users\HuuTai_it\Desktop\project-pttk\TetrisReturn\TheRazorBladeMapPlugin\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\HuuTai_it\Desktop\project-pttk\TetrisReturn\TheRazorBladeMapPlugin\obj\Debug\GenerateResource.write.1.tlog

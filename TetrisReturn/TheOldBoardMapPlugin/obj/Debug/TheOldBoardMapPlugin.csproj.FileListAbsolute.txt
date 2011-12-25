@@ -5,3 +5,6 @@ C:\Users\HuuTai_it\Desktop\project-pttk\TetrisReturn\TheOldBoardMapPlugin\obj\De
 C:\Users\HuuTai_it\Desktop\project-pttk\TetrisReturn\TheOldBoardMapPlugin\obj\Debug\TheOldBoardMapPlugin.pdb
 C:\Users\HuuTai_it\Desktop\project-pttk\TetrisReturn\TheOldBoardMapPlugin\bin\Debug\MapInterface.dll
 C:\Users\HuuTai_it\Desktop\project-pttk\TetrisReturn\TheOldBoardMapPlugin\bin\Debug\MapInterface.pdb
+C:\Users\HuuTai_it\Desktop\project-pttk\TetrisReturn\TheOldBoardMapPlugin\obj\Debug\TheOldBoardMapPlugin.Properties.Resources.resources
+C:\Users\HuuTai_it\Desktop\project-pttk\TetrisReturn\TheOldBoardMapPlugin\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\HuuTai_it\Desktop\project-pttk\TetrisReturn\TheOldBoardMapPlugin\obj\Debug\GenerateResource.write.1.tlog
