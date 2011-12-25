@@ -1,0 +1,7 @@
+C:\Users\HuuTai_it\Desktop\project-pttk\TetrisReturn\TheTransformerThemePlugin\bin\Debug\TheTransformerThemePlugin.dll
+C:\Users\HuuTai_it\Desktop\project-pttk\TetrisReturn\TheTransformerThemePlugin\bin\Debug\TheTransformerThemePlugin.pdb
+C:\Users\HuuTai_it\Desktop\project-pttk\TetrisReturn\TheTransformerThemePlugin\bin\Debug\TetrisReturn.exe
+C:\Users\HuuTai_it\Desktop\project-pttk\TetrisReturn\TheTransformerThemePlugin\bin\Debug\TetrisReturn.pdb
+C:\Users\HuuTai_it\Desktop\project-pttk\TetrisReturn\TheTransformerThemePlugin\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\HuuTai_it\Desktop\project-pttk\TetrisReturn\TheTransformerThemePlugin\obj\Debug\TheTransformerThemePlugin.dll
+C:\Users\HuuTai_it\Desktop\project-pttk\TetrisReturn\TheTransformerThemePlugin\obj\Debug\TheTransformerThemePlugin.pdb

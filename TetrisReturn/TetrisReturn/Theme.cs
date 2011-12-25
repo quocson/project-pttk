@@ -5,7 +5,7 @@ using System.Text;
 
 namespace TetrisReturn
 {
-    class Theme
+    public class Theme
     {
     }
 }
