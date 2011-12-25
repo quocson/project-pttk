@@ -1,7 +1,7 @@
 C:\Users\HuuTai_it\Desktop\project-pttk\TetrisReturn\TheSquareTimeMapPlugin\bin\Debug\TheSquareTimeMapPlugin.dll
 C:\Users\HuuTai_it\Desktop\project-pttk\TetrisReturn\TheSquareTimeMapPlugin\bin\Debug\TheSquareTimeMapPlugin.pdb
-C:\Users\HuuTai_it\Desktop\project-pttk\TetrisReturn\TheSquareTimeMapPlugin\bin\Debug\TetrisReturn.exe
-C:\Users\HuuTai_it\Desktop\project-pttk\TetrisReturn\TheSquareTimeMapPlugin\bin\Debug\TetrisReturn.pdb
 C:\Users\HuuTai_it\Desktop\project-pttk\TetrisReturn\TheSquareTimeMapPlugin\obj\Debug\ResolveAssemblyReference.cache
 C:\Users\HuuTai_it\Desktop\project-pttk\TetrisReturn\TheSquareTimeMapPlugin\obj\Debug\TheSquareTimeMapPlugin.dll
 C:\Users\HuuTai_it\Desktop\project-pttk\TetrisReturn\TheSquareTimeMapPlugin\obj\Debug\TheSquareTimeMapPlugin.pdb
+C:\Users\HuuTai_it\Desktop\project-pttk\TetrisReturn\TheSquareTimeMapPlugin\bin\Debug\MapInterface.dll
+C:\Users\HuuTai_it\Desktop\project-pttk\TetrisReturn\TheSquareTimeMapPlugin\bin\Debug\MapInterface.pdb

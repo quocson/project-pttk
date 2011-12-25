@@ -1,7 +1,5 @@
 C:\Users\HuuTai_it\Desktop\project-pttk\TetrisReturn\ThemeInterface\obj\Debug\ResolveAssemblyReference.cache
 C:\Users\HuuTai_it\Desktop\project-pttk\TetrisReturn\ThemeInterface\bin\Debug\ThemeInterface.dll
 C:\Users\HuuTai_it\Desktop\project-pttk\TetrisReturn\ThemeInterface\bin\Debug\ThemeInterface.pdb
-C:\Users\HuuTai_it\Desktop\project-pttk\TetrisReturn\ThemeInterface\bin\Debug\TetrisReturn.exe
-C:\Users\HuuTai_it\Desktop\project-pttk\TetrisReturn\ThemeInterface\bin\Debug\TetrisReturn.pdb
 C:\Users\HuuTai_it\Desktop\project-pttk\TetrisReturn\ThemeInterface\obj\Debug\ThemeInterface.dll
 C:\Users\HuuTai_it\Desktop\project-pttk\TetrisReturn\ThemeInterface\obj\Debug\ThemeInterface.pdb

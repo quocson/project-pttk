@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Drawing;
 
-namespace TetrisReturn
+namespace MapPluginInterface
 {
     public class Map : IDisposable
     {

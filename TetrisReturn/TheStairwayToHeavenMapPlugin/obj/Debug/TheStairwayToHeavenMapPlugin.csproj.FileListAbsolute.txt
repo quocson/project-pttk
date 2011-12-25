@@ -1,9 +1,7 @@
 C:\Users\HuuTai_it\Desktop\project-pttk\TetrisReturn\TheStairwayToHeavenMapPlugin\bin\Debug\TheStairwayToHeavenMapPlugin.dll
 C:\Users\HuuTai_it\Desktop\project-pttk\TetrisReturn\TheStairwayToHeavenMapPlugin\bin\Debug\TheStairwayToHeavenMapPlugin.pdb
 C:\Users\HuuTai_it\Desktop\project-pttk\TetrisReturn\TheStairwayToHeavenMapPlugin\bin\Debug\MapInterface.dll
-C:\Users\HuuTai_it\Desktop\project-pttk\TetrisReturn\TheStairwayToHeavenMapPlugin\bin\Debug\TetrisReturn.exe
 C:\Users\HuuTai_it\Desktop\project-pttk\TetrisReturn\TheStairwayToHeavenMapPlugin\bin\Debug\MapInterface.pdb
-C:\Users\HuuTai_it\Desktop\project-pttk\TetrisReturn\TheStairwayToHeavenMapPlugin\bin\Debug\TetrisReturn.pdb
 C:\Users\HuuTai_it\Desktop\project-pttk\TetrisReturn\TheStairwayToHeavenMapPlugin\obj\Debug\ResolveAssemblyReference.cache
 C:\Users\HuuTai_it\Desktop\project-pttk\TetrisReturn\TheStairwayToHeavenMapPlugin\obj\Debug\TheStairwayToHeavenMapPlugin.Properties.Resources.resources
 C:\Users\HuuTai_it\Desktop\project-pttk\TetrisReturn\TheStairwayToHeavenMapPlugin\obj\Debug\GenerateResource.read.1.tlog
