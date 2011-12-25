@@ -12,14 +12,7 @@ namespace TheStairwayToHeavenMapPlugin
         public TheStairwayToHeavenMap()
         {
             statusMap = new int[row, col];
-            for (int i = 0; i < row; i++)
-                for (int j = 0; j < col; j++)
-                    if((i == 3 || i == 4 || i == 8 || i == 9 || i == 12 ||
-                        i == 13 || i == 16 || i == 17 || i == 19 || i == 20) &&
-                        (j < 5 || j > 10))
-                        statusMap[i, j] = -2;
-                    else
-                        statusMap[i, j] = -1;
+            reset();
 
             iMap = new Bitmap(TheStairwayToHeavenMapPlugin.Properties.Resources.StairwayToHeavenMap);
         }

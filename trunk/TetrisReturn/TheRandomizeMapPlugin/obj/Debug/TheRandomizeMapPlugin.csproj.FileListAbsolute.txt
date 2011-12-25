@@ -5,3 +5,6 @@ C:\Users\HuuTai_it\Desktop\project-pttk\TetrisReturn\TheRandomizeMapPlugin\obj\D
 C:\Users\HuuTai_it\Desktop\project-pttk\TetrisReturn\TheRandomizeMapPlugin\obj\Debug\TheRandomizeMapPlugin.pdb
 C:\Users\HuuTai_it\Desktop\project-pttk\TetrisReturn\TheRandomizeMapPlugin\bin\Debug\MapInterface.dll
 C:\Users\HuuTai_it\Desktop\project-pttk\TetrisReturn\TheRandomizeMapPlugin\bin\Debug\MapInterface.pdb
+C:\Users\HuuTai_it\Desktop\project-pttk\TetrisReturn\TheRandomizeMapPlugin\obj\Debug\TheRandomizeMapPlugin.Properties.Resources.resources
+C:\Users\HuuTai_it\Desktop\project-pttk\TetrisReturn\TheRandomizeMapPlugin\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\HuuTai_it\Desktop\project-pttk\TetrisReturn\TheRandomizeMapPlugin\obj\Debug\GenerateResource.write.1.tlog

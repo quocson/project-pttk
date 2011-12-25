@@ -12,9 +12,7 @@ namespace TheClassicMapPlugin
         public TheClassicMap()
         {
             statusMap = new int[row, col];
-            for (int i = 0; i < row; i++)
-                for (int j = 0; j < col; j++)
-                    statusMap[i, j] = -1;
+            reset();
 
             iMap = new Bitmap(TheClassicMapPlugin.Properties.Resources.ClassicMap);
         }
