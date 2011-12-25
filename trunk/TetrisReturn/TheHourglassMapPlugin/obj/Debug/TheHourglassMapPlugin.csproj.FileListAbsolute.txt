@@ -1,0 +1,7 @@
+C:\Users\HuuTai_it\Desktop\project-pttk\TetrisReturn\TheHourglassMapPlugin\bin\Debug\TheHourglassMapPlugin.dll
+C:\Users\HuuTai_it\Desktop\project-pttk\TetrisReturn\TheHourglassMapPlugin\bin\Debug\TheHourglassMapPlugin.pdb
+C:\Users\HuuTai_it\Desktop\project-pttk\TetrisReturn\TheHourglassMapPlugin\bin\Debug\TetrisReturn.exe
+C:\Users\HuuTai_it\Desktop\project-pttk\TetrisReturn\TheHourglassMapPlugin\bin\Debug\TetrisReturn.pdb
+C:\Users\HuuTai_it\Desktop\project-pttk\TetrisReturn\TheHourglassMapPlugin\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\HuuTai_it\Desktop\project-pttk\TetrisReturn\TheHourglassMapPlugin\obj\Debug\TheHourglassMapPlugin.dll
+C:\Users\HuuTai_it\Desktop\project-pttk\TetrisReturn\TheHourglassMapPlugin\obj\Debug\TheHourglassMapPlugin.pdb

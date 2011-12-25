@@ -1,0 +1,7 @@
+C:\Users\HuuTai_it\Desktop\project-pttk\TetrisReturn\TheDescendingMapPlugin\bin\Debug\TheDescendingMapPlugin.dll
+C:\Users\HuuTai_it\Desktop\project-pttk\TetrisReturn\TheDescendingMapPlugin\bin\Debug\TheDescendingMapPlugin.pdb
+C:\Users\HuuTai_it\Desktop\project-pttk\TetrisReturn\TheDescendingMapPlugin\bin\Debug\TetrisReturn.exe
+C:\Users\HuuTai_it\Desktop\project-pttk\TetrisReturn\TheDescendingMapPlugin\bin\Debug\TetrisReturn.pdb
+C:\Users\HuuTai_it\Desktop\project-pttk\TetrisReturn\TheDescendingMapPlugin\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\HuuTai_it\Desktop\project-pttk\TetrisReturn\TheDescendingMapPlugin\obj\Debug\TheDescendingMapPlugin.dll
+C:\Users\HuuTai_it\Desktop\project-pttk\TetrisReturn\TheDescendingMapPlugin\obj\Debug\TheDescendingMapPlugin.pdb
