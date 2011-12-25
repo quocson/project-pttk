@@ -6,7 +6,7 @@ using TetrisReturn;
 
 namespace ThemeInterface
 {
-    class ThemInterface
+    interface ThemInterface
     {
         string VietNameseName { get; }
         string VietNameseDescription { get; }

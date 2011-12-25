@@ -9,9 +9,12 @@ namespace TetrisReturn
     public class Map : IDisposable
     {
         protected int[,] statusMap;//status of blocks on the map.
+
         protected Bitmap iMap;//image of map
+
         protected int row;//row of map.
         protected int col;//colum of map.
+
         protected int xScreen;//x position of shape on the screen.
         protected int yScreen;//y position of shape on the screen.
 

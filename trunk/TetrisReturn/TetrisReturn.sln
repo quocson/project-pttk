@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TetrisReturn", "TetrisReturn\TetrisReturn.csproj", "{4A76CCA0-D520-4E2F-9DA0-39258A235BE4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MapInterface", "MapInterface\MapInterface.csproj", "{BF092A8C-6205-4F2A-9D9E-5FD98DF482F4}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MapPluginInterface", "MapPluginInterface\MapPluginInterface.csproj", "{BF092A8C-6205-4F2A-9D9E-5FD98DF482F4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TheClassicMapPlugin", "TheClassicMap\TheClassicMapPlugin.csproj", "{AFD03FD5-4FA3-4F55-8581-7B5C21E68924}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TheClassicMapPlugin", "TheClassicMapPlugin\TheClassicMapPlugin.csproj", "{AFD03FD5-4FA3-4F55-8581-7B5C21E68924}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TheDeathSawMapPlugin", "TheDeathSawMapPlugin\TheDeathSawMapPlugin.csproj", "{D6ED7C45-D7B4-46EA-AD16-E8F7F64AEFB8}"
 EndProject
