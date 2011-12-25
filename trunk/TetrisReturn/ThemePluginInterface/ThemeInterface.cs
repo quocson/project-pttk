@@ -3,9 +3,9 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
-namespace ThemeInterface
+namespace ThemePluginInterface
 {
-    interface ThemInterface
+    interface ThemeInterface
     {
         string VietNameseName { get; }
         string VietNameseDescription { get; }

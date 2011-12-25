@@ -19,7 +19,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TheRazorBladeMapPlugin", "T
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TheSquareTimeMapPlugin", "TheSquareTimeMapPlugin\TheSquareTimeMapPlugin.csproj", "{117BA585-78AC-4ED7-A11F-E7544EF6907E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThemeInterface", "ThemeInterface\ThemeInterface.csproj", "{12BAB21A-F35A-48FD-9C48-B58184414564}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThemePluginInterface", "ThemePluginInterface\ThemePluginInterface.csproj", "{12BAB21A-F35A-48FD-9C48-B58184414564}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TheTransformerThemePlugin", "TheTransformerThemePlugin\TheTransformerThemePlugin.csproj", "{19B86768-C142-458D-9B3B-08B34261B3BF}"
 EndProject
