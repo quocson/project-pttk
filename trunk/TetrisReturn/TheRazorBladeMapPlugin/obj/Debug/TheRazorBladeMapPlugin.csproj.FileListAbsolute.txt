@@ -1,7 +1,7 @@
 C:\Users\HuuTai_it\Desktop\project-pttk\TetrisReturn\TheRazorBladeMapPlugin\bin\Debug\TheRazorBladeMapPlugin.dll
 C:\Users\HuuTai_it\Desktop\project-pttk\TetrisReturn\TheRazorBladeMapPlugin\bin\Debug\TheRazorBladeMapPlugin.pdb
-C:\Users\HuuTai_it\Desktop\project-pttk\TetrisReturn\TheRazorBladeMapPlugin\bin\Debug\TetrisReturn.exe
-C:\Users\HuuTai_it\Desktop\project-pttk\TetrisReturn\TheRazorBladeMapPlugin\bin\Debug\TetrisReturn.pdb
 C:\Users\HuuTai_it\Desktop\project-pttk\TetrisReturn\TheRazorBladeMapPlugin\obj\Debug\ResolveAssemblyReference.cache
 C:\Users\HuuTai_it\Desktop\project-pttk\TetrisReturn\TheRazorBladeMapPlugin\obj\Debug\TheRazorBladeMapPlugin.dll
 C:\Users\HuuTai_it\Desktop\project-pttk\TetrisReturn\TheRazorBladeMapPlugin\obj\Debug\TheRazorBladeMapPlugin.pdb
+C:\Users\HuuTai_it\Desktop\project-pttk\TetrisReturn\TheRazorBladeMapPlugin\bin\Debug\MapInterface.dll
+C:\Users\HuuTai_it\Desktop\project-pttk\TetrisReturn\TheRazorBladeMapPlugin\bin\Debug\MapInterface.pdb

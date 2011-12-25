@@ -51,7 +51,6 @@
     <Compile Include="ClassicShape.cs" />
     <Compile Include="Block.cs" />
     <Compile Include="Constants.cs" />
-    <Compile Include="Map.cs" />
     <Compile Include="MainForm.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -64,7 +63,6 @@
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Shape.cs" />
-    <Compile Include="Theme.cs" />
     <EmbeddedResource Include="MainForm.resx">
       <DependentUpon>MainForm.cs</DependentUpon>
     </EmbeddedResource>
@@ -93,6 +91,12 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\icon.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\MapPluginInterface\MapPluginInterface.csproj">
+      <Project>{BF092A8C-6205-4F2A-9D9E-5FD98DF482F4}</Project>
+      <Name>MapPluginInterface</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
