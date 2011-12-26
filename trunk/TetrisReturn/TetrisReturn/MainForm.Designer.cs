@@ -29,13 +29,23 @@
         private void InitializeComponent()
         {
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(MainForm));
+            this.imageButton1 = new TetrisReturn.ImageButton();
             this.SuspendLayout();
+            // 
+            // imageButton1
+            // 
+            this.imageButton1.ForeColor = System.Drawing.Color.Transparent;
+            this.imageButton1.Location = new System.Drawing.Point(12, 12);
+            this.imageButton1.Name = "imageButton1";
+            this.imageButton1.Size = new System.Drawing.Size(352, 150);
+            this.imageButton1.TabIndex = 0;
             // 
             // MainForm
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 14F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(104, 0);
+            this.ClientSize = new System.Drawing.Size(376, 191);
+            this.Controls.Add(this.imageButton1);
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "MainForm";
             this.Text = "Tetris Return";
@@ -44,6 +54,8 @@
         }
 
         #endregion
+
+        private ImageButton imageButton1;
     }
 }
 
