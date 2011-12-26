@@ -20,6 +20,10 @@ C:\Users\HuuTai_it\Desktop\project-pttk\TetrisReturn\TheClassicMapPlugin\obj\Deb
 C:\Users\HuuTai_it\Desktop\project-pttk\TetrisReturn\TheClassicMapPlugin\obj\Debug\TheClassicMapPlugin.pdb
 C:\Users\HuuTai_it\Desktop\project-pttk\TetrisReturn\TheClassicMapPlugin\bin\Debug\MapInterface.dll
 C:\Users\HuuTai_it\Desktop\project-pttk\TetrisReturn\TheClassicMapPlugin\bin\Debug\MapInterface.pdb
+<<<<<<< .mine
+C:\Users\HuuTai_it\Desktop\project-pttk\TetrisReturn\TheClassicMapPlugin\bin\Debug\ThemeInterface.dll
+C:\Users\HuuTai_it\Desktop\project-pttk\TetrisReturn\TheClassicMapPlugin\bin\Debug\ThemeInterface.pdb
+=======
 E:\Document\Software design\Project Description\TetrisReturn\TheClassicMapPlugin\bin\Debug\TheClassicMapPlugin.dll
 E:\Document\Software design\Project Description\TetrisReturn\TheClassicMapPlugin\bin\Debug\TheClassicMapPlugin.pdb
 E:\Document\Software design\Project Description\TetrisReturn\TheClassicMapPlugin\bin\Debug\MapInterface.dll
@@ -34,3 +38,4 @@ E:\Document\Software design\Project Description\TetrisReturn\TheClassicMapPlugin
 E:\Document\Software design\Project Description\TetrisReturn\TheClassicMapPlugin\obj\Debug\GenerateResource.write.1.tlog
 E:\Document\Software design\Project Description\TetrisReturn\TheClassicMapPlugin\obj\Debug\TheClassicMapPlugin.dll
 E:\Document\Software design\Project Description\TetrisReturn\TheClassicMapPlugin\obj\Debug\TheClassicMapPlugin.pdb
+>>>>>>> .r32

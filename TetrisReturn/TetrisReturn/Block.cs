@@ -34,7 +34,7 @@ namespace TetrisReturn
         //return position block on map.
         public Point mapPosotion()
         {
-            return new Point();
+            return new Point(xScreen / Constants.blockSize, (yScreen + Constants.blockSize * 4) / Constants.blockSize);
         }
 
         //draw block on the graphics.

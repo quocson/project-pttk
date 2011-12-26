@@ -11,7 +11,6 @@ namespace TheRazorBladeMapPlugin
     {
         public TheRazorBladeMap()
         {
-            statusMap = new int[row, col];
             reset();
 
             iMap = new Bitmap(TheRazorBladeMapPlugin.Properties.Resources.RazorBladeMap);

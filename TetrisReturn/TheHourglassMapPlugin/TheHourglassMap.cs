@@ -11,7 +11,6 @@ namespace TheHourglassMapPlugin
     {
         public TheHourglassMap()
         {
-            statusMap = new int[row, col];
             reset();
 
             iMap = new Bitmap(TheHourglassMapPlugin.Properties.Resources.HourglassMap);

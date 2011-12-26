@@ -10,6 +10,10 @@ C:\Users\HuuTai_it\Desktop\project-pttk\TetrisReturn\TheDeathSawMapPlugin\bin\De
 C:\Users\HuuTai_it\Desktop\project-pttk\TetrisReturn\TheDeathSawMapPlugin\obj\Debug\TheDeathSawMapPlugin.Properties.Resources.resources
 C:\Users\HuuTai_it\Desktop\project-pttk\TetrisReturn\TheDeathSawMapPlugin\obj\Debug\GenerateResource.read.1.tlog
 C:\Users\HuuTai_it\Desktop\project-pttk\TetrisReturn\TheDeathSawMapPlugin\obj\Debug\GenerateResource.write.1.tlog
+<<<<<<< .mine
+C:\Users\HuuTai_it\Desktop\project-pttk\TetrisReturn\TheDeathSawMapPlugin\bin\Debug\ThemeInterface.dll
+C:\Users\HuuTai_it\Desktop\project-pttk\TetrisReturn\TheDeathSawMapPlugin\bin\Debug\ThemeInterface.pdb
+=======
 E:\Document\Software design\Project Description\TetrisReturn\TheDeathSawMapPlugin\bin\Debug\TheDeathSawMapPlugin.dll
 E:\Document\Software design\Project Description\TetrisReturn\TheDeathSawMapPlugin\bin\Debug\TheDeathSawMapPlugin.pdb
 E:\Document\Software design\Project Description\TetrisReturn\TheDeathSawMapPlugin\bin\Debug\MapInterface.dll
@@ -24,3 +28,4 @@ E:\Document\Software design\Project Description\TetrisReturn\TheDeathSawMapPlugi
 E:\Document\Software design\Project Description\TetrisReturn\TheDeathSawMapPlugin\obj\Debug\GenerateResource.write.1.tlog
 E:\Document\Software design\Project Description\TetrisReturn\TheDeathSawMapPlugin\obj\Debug\TheDeathSawMapPlugin.dll
 E:\Document\Software design\Project Description\TetrisReturn\TheDeathSawMapPlugin\obj\Debug\TheDeathSawMapPlugin.pdb
+>>>>>>> .r32

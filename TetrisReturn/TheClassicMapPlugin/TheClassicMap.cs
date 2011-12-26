@@ -11,7 +11,6 @@ namespace TheClassicMapPlugin
     {
         public TheClassicMap()
         {
-            statusMap = new int[row, col];
             reset();
 
             iMap = new Bitmap(TheClassicMapPlugin.Properties.Resources.ClassicMap);
