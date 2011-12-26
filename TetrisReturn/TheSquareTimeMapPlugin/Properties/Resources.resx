@@ -118,19 +118,19 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="englishDescription" xml:space="preserve">
-    <value />
+    <value>This map have some slot for square shape (O tetrimino). You must have skill to put it in to slot.</value>
   </data>
   <data name="englishName" xml:space="preserve">
-    <value />
+    <value>The square time</value>
   </data>
   <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
   <data name="SquareTimeMap" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\SquareTimeMap.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="vietNameseDescription" xml:space="preserve">
-    <value />
+    <value>Khung choi nay co nhiu cho trong danh cho khoi gach hinh vuong. Ban phai co ki thuat de lap day cac o trong nay.</value>
   </data>
   <data name="vietNameseName" xml:space="preserve">
-    <value />
+    <value>Khoi vuong</value>
   </data>
 </root>
