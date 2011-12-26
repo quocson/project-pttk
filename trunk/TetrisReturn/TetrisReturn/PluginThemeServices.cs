@@ -5,7 +5,7 @@ using ThemePluginInterface;
 
 namespace TetrisReturn
 {
-    class PluginThemeServices
+    public class PluginThemeServices
     {
          public PluginThemeServices()
         {

@@ -11,7 +11,6 @@ namespace TheRandomizeMapPlugin
     {
         public TheRandomizeMap()
         {
-            statusMap = new int[row, col];
             reset();
 
             iMap = new Bitmap(TheRandomizeMapPlugin.Properties.Resources.RandomizeMap);

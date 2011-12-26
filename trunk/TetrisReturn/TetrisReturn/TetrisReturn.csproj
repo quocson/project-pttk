@@ -57,6 +57,9 @@
     <Compile Include="ClassicShape.cs" />
     <Compile Include="Block.cs" />
     <Compile Include="Constants.cs" />
+    <Compile Include="GameControl.cs">
+      <SubType>Component</SubType>
+    </Compile>
     <Compile Include="Help.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -105,9 +108,13 @@
     <Compile Include="ShowInformation.Designer.cs">
       <DependentUpon>ShowInformation.cs</DependentUpon>
     </Compile>
+<<<<<<< .mine
+    <Compile Include="SoundControl.cs" />
+=======
     <EmbeddedResource Include="ImageButton.resx">
       <DependentUpon>ImageButton.cs</DependentUpon>
     </EmbeddedResource>
+>>>>>>> .r32
     <EmbeddedResource Include="MainForm.resx">
       <DependentUpon>MainForm.cs</DependentUpon>
     </EmbeddedResource>

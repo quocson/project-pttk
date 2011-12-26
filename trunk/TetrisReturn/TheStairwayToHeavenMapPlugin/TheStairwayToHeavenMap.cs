@@ -11,7 +11,6 @@ namespace TheStairwayToHeavenMapPlugin
     {
         public TheStairwayToHeavenMap()
         {
-            statusMap = new int[row, col];
             reset();
 
             iMap = new Bitmap(TheStairwayToHeavenMapPlugin.Properties.Resources.StairwayToHeavenMap);

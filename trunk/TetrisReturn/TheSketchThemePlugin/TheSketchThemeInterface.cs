@@ -14,7 +14,10 @@ namespace TheSketchThemePlugin
                                         TheSketchThemePlugin.Properties.Resources.HighScoresBackground,
                                         TheSketchThemePlugin.Properties.Resources.OptionBackground,
                                         TheSketchThemePlugin.Properties.Resources.Blocks,
-                                        TheSketchThemePlugin.Properties.Resources.Button,
+                                        TheSketchThemePlugin.Properties.Resources.NormalButton,
+                                        TheSketchThemePlugin.Properties.Resources.HoverButton,
+                                        TheSketchThemePlugin.Properties.Resources.ClickButton,
+                                        TheSketchThemePlugin.Properties.Resources.DisableButton,
                                         TheSketchThemePlugin.Properties.Resources.Informations);
 
         public string VietNameseName { get { return TheSketchThemePlugin.Properties.Resources.vietNameseName; } }

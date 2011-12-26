@@ -11,7 +11,6 @@ namespace TheDeathSawMapPlugin
     {
         public TheDeathSawMap()
         {
-            statusMap = new int[row, col];
             reset();
 
             iMap = new Bitmap(TheDeathSawMapPlugin.Properties.Resources.DeathSawMap);

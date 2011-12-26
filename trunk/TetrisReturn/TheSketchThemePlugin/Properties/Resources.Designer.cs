@@ -74,9 +74,16 @@ namespace TheSketchThemePlugin.Properties {
             }
         }
         
-        internal static System.Drawing.Bitmap Button {
+        internal static System.Drawing.Bitmap ClickButton {
             get {
-                object obj = ResourceManager.GetObject("Button", resourceCulture);
+                object obj = ResourceManager.GetObject("ClickButton", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        internal static System.Drawing.Bitmap DisableButton {
+            get {
+                object obj = ResourceManager.GetObject("DisableButton", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -113,6 +120,13 @@ namespace TheSketchThemePlugin.Properties {
             }
         }
         
+        internal static System.Drawing.Bitmap HoverButton {
+            get {
+                object obj = ResourceManager.GetObject("HoverButton", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
         internal static System.Drawing.Bitmap Informations {
             get {
                 object obj = ResourceManager.GetObject("Informations", resourceCulture);
@@ -123,6 +137,13 @@ namespace TheSketchThemePlugin.Properties {
         internal static System.Drawing.Bitmap MainBackground {
             get {
                 object obj = ResourceManager.GetObject("MainBackground", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        internal static System.Drawing.Bitmap NormalButton {
+            get {
+                object obj = ResourceManager.GetObject("NormalButton", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }

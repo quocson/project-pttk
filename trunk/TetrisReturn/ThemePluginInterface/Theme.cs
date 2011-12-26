@@ -14,11 +14,29 @@ namespace ThemePluginInterface
         private Bitmap iHighScoresBackground;
         private Bitmap iOptionBackground;
         private Bitmap iBlocks;
-        private Bitmap iButton;
+        private Bitmap iNormalButton;
+        private Bitmap iHoverButton;
+        private Bitmap iClickButton;
+        private Bitmap iDisableButton;
         private Bitmap iInformations;
 
         public Theme()
         {
+        }
+
+        public Theme(Theme t)
+        {
+            iMainBackground = new Bitmap(t.iMainBackground);
+            iHelpBackground = new Bitmap(t.iHelpBackground);
+            iAboutBackground = new Bitmap(t.iAboutBackground);
+            iHighScoresBackground = new Bitmap(t.iHighScoresBackground);
+            iOptionBackground = new Bitmap(t.iOptionBackground);
+            iBlocks = new Bitmap(t.iBlocks);
+            iNormalButton = new Bitmap(t.iNormalButton);
+            iHoverButton = new Bitmap(t.iHoverButton);
+            iClickButton = new Bitmap(t.iClickButton);
+            iDisableButton = new Bitmap(t.iDisableButton);
+            iInformations = new Bitmap(t.iInformations);
         }
 
         public Theme(Image iMainBackground,
@@ -27,7 +45,10 @@ namespace ThemePluginInterface
                     Image iHighScoresBackground,
                     Image iOptionBackground,
                     Image iBlocks,
-                    Image iButton,
+                    Image iNormalButton,
+                    Image iHoverButton,
+                    Image iClickButton,
+                    Image iDisableButton,
                     Image iInformations)
         {
             this.iMainBackground = new Bitmap(iMainBackground);
@@ -36,7 +57,10 @@ namespace ThemePluginInterface
             this.iHighScoresBackground = new Bitmap(iHighScoresBackground);
             this.iOptionBackground = new Bitmap(iOptionBackground);
             this.iBlocks = new Bitmap(iBlocks);
-            this.iButton = new Bitmap(iButton);
+            this.iNormalButton = new Bitmap(iNormalButton);
+            this.iHoverButton = new Bitmap(iHoverButton);
+            this.iClickButton = new Bitmap(iClickButton);
+            this.iDisableButton = new Bitmap(iDisableButton);
             this.iInformations = new Bitmap(iInformations);
         }
 
@@ -48,7 +72,10 @@ namespace ThemePluginInterface
             iHighScoresBackground.Dispose();
             iOptionBackground.Dispose();
             iBlocks.Dispose();
-            iButton.Dispose();
+            iNormalButton.Dispose();
+            iHoverButton.Dispose();
+            iClickButton.Dispose();
+            iDisableButton.Dispose();
             iInformations.Dispose();
             GC.SuppressFinalize(this);
         }
@@ -59,7 +86,10 @@ namespace ThemePluginInterface
         public Bitmap HighScoresBackground { get { return iHighScoresBackground; } }
         public Bitmap OptionBackground { get { return iOptionBackground; } }
         public Bitmap Blocks { get { return iBlocks; } }
-        public Bitmap Button { get { return iButton; } }
+        public Bitmap NormalButton { get { return iNormalButton; } }
+        public Bitmap HoverButton { get { return iHoverButton; } }
+        public Bitmap ClickButton { get { return iClickButton; } }
+        public Bitmap DisableButton { get { return iDisableButton; } }
         public Bitmap Informations { get { return iInformations; } }
     }
 }

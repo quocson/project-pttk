@@ -11,7 +11,6 @@ namespace TheSquareTimeMapPlugin
     {
         public TheSquareTimeMap()
         {
-            statusMap = new int[row, col];
             reset();
 
             iMap = new Bitmap(TheSquareTimeMapPlugin.Properties.Resources.SquareTimeMap);

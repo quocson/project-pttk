@@ -14,7 +14,10 @@ namespace TheTransformerThemePlugin
                                         TheTransformerThemePlugin.Properties.Resources.HighScoresBackground,
                                         TheTransformerThemePlugin.Properties.Resources.OptionBackground,
                                         TheTransformerThemePlugin.Properties.Resources.Blocks,
-                                        TheTransformerThemePlugin.Properties.Resources.Button,
+                                        TheTransformerThemePlugin.Properties.Resources.NormalButton,
+                                        TheTransformerThemePlugin.Properties.Resources.HoverButton,
+                                        TheTransformerThemePlugin.Properties.Resources.ClickButton,
+                                        TheTransformerThemePlugin.Properties.Resources.DisableButton,
                                         TheTransformerThemePlugin.Properties.Resources.Informations);
 
         public string VietNameseName { get { return TheTransformerThemePlugin.Properties.Resources.vietNameseName; } }

@@ -23,8 +23,25 @@ namespace MapPluginInterface
             row = 26;
             col = 16;
 
+            statusMap = new int[row, col];
+
             //xScreen = ?;
             //yScreen = ?;
+        }
+
+        public Map(Map m)
+        {
+            row = m.row;
+            col = m.col;
+            
+            for(int i = 0; i < row; i++)
+                for(int j = 0; j < col; j++)
+                    statusMap[i, j] = m.statusMap[i, j];
+
+            iMap = new Bitmap(m.iMap);
+
+            xScreen = m.xScreen;
+            yScreen = m.yScreen;
         }
 
         public void Dispose()

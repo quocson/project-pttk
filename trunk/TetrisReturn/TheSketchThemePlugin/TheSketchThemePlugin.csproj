@@ -72,9 +72,6 @@
     <None Include="Resources\Blocks.png" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\Button.png" />
-  </ItemGroup>
-  <ItemGroup>
     <None Include="Resources\HelpBackground.png" />
   </ItemGroup>
   <ItemGroup>
@@ -88,6 +85,18 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\OptionBackground.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ClickButton.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\DisableButton.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\HoverButton.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\NormalButton.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
