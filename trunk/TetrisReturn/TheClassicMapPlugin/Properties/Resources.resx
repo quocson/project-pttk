@@ -122,15 +122,15 @@
     <value>..\Resources\ClassicMap.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="englishDescription" xml:space="preserve">
-    <value />
+    <value>The oldest map of tetris. It have no challenge for you.The first time you play Tetris, you should play this map.</value>
   </data>
   <data name="englishName" xml:space="preserve">
-    <value />
+    <value>Classic</value>
   </data>
   <data name="vietNameseDescription" xml:space="preserve">
-    <value />
+    <value>Co dien</value>
   </data>
   <data name="vietNameseName" xml:space="preserve">
-    <value />
+    <value>Day la khung choi truyen thong cua Tetris. Khung choi nay se khong qua kho doi voi ban. Lan dau tien den voi Tetris, ban nen choi khung choi nay.</value>
   </data>
 </root>
