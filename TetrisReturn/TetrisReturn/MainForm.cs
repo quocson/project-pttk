@@ -14,6 +14,14 @@ namespace TetrisReturn
         public MainForm()
         {
             InitializeComponent();
+            Bitmap a = new Bitmap(this.Width, this.Height);
+            Graphics.FromImage(a).FillRectangle(new SolidBrush(Color.Blue), new Rectangle(0, 0, this.Width, this.Height));
+            this.imageButton1.IHover = a;
+            Bitmap b = new Bitmap(this.Width, this.Height);
+            Graphics.FromImage(b).FillRectangle(new SolidBrush(Color.Red), new Rectangle(0, 0, this.Width, this.Height));
+            this.imageButton1.IEnabled = b;
+            imageButton1.SText = "Pro";
+
         }
     }
 }
