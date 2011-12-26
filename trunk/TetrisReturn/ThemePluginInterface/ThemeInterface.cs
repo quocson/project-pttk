@@ -5,14 +5,14 @@ using System.Text;
 
 namespace ThemePluginInterface
 {
-    interface ThemeInterface
+    public interface ThemeInterface
     {
         string VietNameseName { get; }
         string VietNameseDescription { get; }
         string EnglishName { get; }
         string EnglishDescription { get; }
 
-        Theme theme { get; }
+        Theme Theme { get; }
 
         void Initialize();
         void Dispose();
