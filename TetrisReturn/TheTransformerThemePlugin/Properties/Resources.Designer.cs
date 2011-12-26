@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace TheHourglassMapPlugin.Properties {
+namespace TheTransformerThemePlugin.Properties {
     using System;
     
     
@@ -39,7 +39,7 @@ namespace TheHourglassMapPlugin.Properties {
         internal static global::System.Resources.ResourceManager ResourceManager {
             get {
                 if (object.ReferenceEquals(resourceMan, null)) {
-                    global::System.Resources.ResourceManager temp = new global::System.Resources.ResourceManager("TheHourglassMapPlugin.Properties.Resources", typeof(Resources).Assembly);
+                    global::System.Resources.ResourceManager temp = new global::System.Resources.ResourceManager("TheTransformerThemePlugin.Properties.Resources", typeof(Resources).Assembly);
                     resourceMan = temp;
                 }
                 return resourceMan;
@@ -60,6 +60,27 @@ namespace TheHourglassMapPlugin.Properties {
             }
         }
         
+        internal static System.Drawing.Bitmap AboutBackground {
+            get {
+                object obj = ResourceManager.GetObject("AboutBackground", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        internal static System.Drawing.Bitmap Blocks {
+            get {
+                object obj = ResourceManager.GetObject("Blocks", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        internal static System.Drawing.Bitmap Button {
+            get {
+                object obj = ResourceManager.GetObject("Button", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
         /// <summary>
         ///   Looks up a localized string similar to .
         /// </summary>
@@ -70,7 +91,7 @@ namespace TheHourglassMapPlugin.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to The Hourglass.
+        ///   Looks up a localized string similar to .
         /// </summary>
         internal static string englishName {
             get {
@@ -78,9 +99,37 @@ namespace TheHourglassMapPlugin.Properties {
             }
         }
         
-        internal static System.Drawing.Bitmap HourglassMap {
+        internal static System.Drawing.Bitmap HelpBackground {
             get {
-                object obj = ResourceManager.GetObject("HourglassMap", resourceCulture);
+                object obj = ResourceManager.GetObject("HelpBackground", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        internal static System.Drawing.Bitmap HighScoresBackground {
+            get {
+                object obj = ResourceManager.GetObject("HighScoresBackground", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        internal static System.Drawing.Bitmap Informations {
+            get {
+                object obj = ResourceManager.GetObject("Informations", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        internal static System.Drawing.Bitmap MainBackground {
+            get {
+                object obj = ResourceManager.GetObject("MainBackground", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        internal static System.Drawing.Bitmap OptionBackground {
+            get {
+                object obj = ResourceManager.GetObject("OptionBackground", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
